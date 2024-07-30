@@ -13,6 +13,8 @@ A collection of SQL scripts I have used for searching the CDW.
 
     4. [Find Availability for a clinic](./Appts/availability3.sql)
 
+    5. [Cancelled Appts By Staff](./Appts/CancelledApptsByStationSortedByDateCancelled.sql)
+
 * Consults
 
 * Cerner
@@ -28,3 +30,7 @@ A collection of SQL scripts I have used for searching the CDW.
     1. [Find Schema Connections](./Dba/findSchemaConnections.sql) - Use this to identify othr views related to the one you are working with. 
 
     2. [Find permissions of a db](./Dba/permissions1.sql)
+
+    3. [Find VistA file by number in CDW](./Dba/Find%20Vista%20File%20by%20Numnber.sql)
+
+    4. [Find VistA User Menus](./Dba/FindprimaryUSerMenu.sql)
