@@ -3,7 +3,7 @@ A collection of SQL scripts I have used for searching the CDW.
 
 * Appointments 
     
-    * Note thesse queries are against appt.appointment etc, the "old" Appointment tables, I have not started working with VSE Tables yet. 
+    Note thesse queries are against appt.appointment etc, the "old" Appointment tables, I have not started working with VSE Tables yet. 
 
     1. [Find all appointments for a Patient By ICN and Date Range](./Appts/find%20appointments%20with%20comments.sql) - This example uses patientIEN, but you could replace with patient SID, PatientICN etc. 
 
