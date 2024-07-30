@@ -9,7 +9,15 @@ A collection of SQL scripts I have used for searching the CDW.
 
     2. [Find CHAR4 Value for a clinic](./Appts/CHAR4.sql)
 
+    3. [Check institution for clinics](./Appts/getClinicInstitution.sql) - This is to identify the clinics that do not have an institution defined. 
 
+    4.[Find Availability for a clinic](./Appts/availability3.sql)
+
+* Consults
+
+* Cerner
+
+    1. [Find Patient identifiers](./cdwwork2/CernerMRN.sql) - Used to fimd ICNS for patients based on MRN
 
 * VEText  
 
