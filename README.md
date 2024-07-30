@@ -19,7 +19,7 @@ A collection of SQL scripts I have used for searching the CDW.
 
 * Cerner
 
-    1. [Find Patient identifiers](./cdwwork2/CernerMRN.sql) - Used to fimd ICNS for patients based on MRN
+    1. [Find Patient identifiers](./cdwwork2/CernerMRN.sql) - Used to find ICNS for patients based on MRN
 
 * VEText  
 
